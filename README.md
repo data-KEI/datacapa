@@ -3,7 +3,7 @@
 - 진단설문결과는 개인에게 불이익 없고,
 - 우리 원의 데이터 분석활용역량을 확인하는 것임.
 ## [온라인 진단도구](https://datacapa.go.kr/) 접속
-- [온라인 진단도구](https://datacapa.go.kr/) 웹주소(URL): https://datacapa.go.kr/\
+- [온라인 진단도구](https://datacapa.go.kr/) 웹주소(URL): https://datacapa.go.kr/
 ### 로그인
 - <b>최초 로그인은 메일에 첨부한 ID(PB로 시작)가 비밀번호임.</b>
 - 최초 로그인 후 비밀번호 변경,
